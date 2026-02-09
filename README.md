@@ -1,7 +1,7 @@
 # Password Manager
 
 This project aims to create a simple but efficient password manager. It includes two versions:
-1. **Desktop App**
+1. **Desktop App** ([DEMO](demo.mp4))
 2. **Web Deployable**
 
 ## Desktop App
