@@ -2,7 +2,6 @@ import React, { useState, useEffect, useCallback } from "react";
 import Popup from 'reactjs-popup';
 import PasswordSave from "./PasswordSave";
 import "./PasswordDisplay.css";
-import store from "./storeUtil";
 
 const PasswordDisplay = () => {
     // State declarations
