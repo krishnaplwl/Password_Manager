@@ -6,6 +6,12 @@ This project aims to create a simple but efficient password manager. It includes
 
 ## Desktop App
 
+### Screnshots
+
+![demo1](screenshots/demo1.png)
+
+![demo2](screenshots/demo2.png)
+
 ### Installation
 
 To install this program on your Windows device:
